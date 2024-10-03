@@ -3,7 +3,6 @@ The source-code of "Can Large Language Models Grasp Legal Theories? Enhance Lega
 
 **🎉 Our work has been accepted in EMNLP-2024 (findings, long paper).**
 
-## The source-code will come soon.
 
 ## Ethical Consideration 
 Our work focuses on exploring algorithms to enhance the complex reasoning capabilities of LLMs, rather than replacing human judges or being directly used in real-world decision-making applications. 
